@@ -1,0 +1,5 @@
+[2019-11-21 08:57:05.129] [91000:91000] [log] [warning] This is my log
+[2019-11-21 09:02:11.222] [95368:95368] [log] [warning] %s This is my log
+[2019-11-21 09:02:23.126] [95604:95604] [log] [warning] main This is my log
+[2019-11-21 09:02:55.934] [96149:96149] [log] [warning] 7 This is my log
+[2019-11-21 09:03:22.326] [96587:96587] [log] [warning] test.cpp:7 This is my log

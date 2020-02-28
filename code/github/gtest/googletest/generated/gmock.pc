@@ -1,0 +1,10 @@
+libdir=/usr/local/lib64
+includedir=/usr/local/include
+
+Name: gmock
+Description: GoogleMock (without main() function)
+Version: 
+URL: https://github.com/google/googletest
+Requires: gtest
+Libs: -L${libdir} -lgmock -lpthread
+Cflags: -I${includedir} -DGTEST_HAS_PTHREAD=1
